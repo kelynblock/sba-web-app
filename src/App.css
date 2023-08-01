@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,700;1,400&display=swap");
+
+
+* {
+  box-sizing: border-box;
+  padding: 5px 10px;
+}
+
+footer{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+ol{
+  margin-left: 3%;
+  text-align: left;
+
+}
+
+#1{
+  color: orangered;
+}
+
+ul{
+  margin-left: 6%;
+}
+
+li {
+  text-align: justify;
+}
+
+
+.theme-buttons {
+  text-align: center;
+}
+
+.home-content {
+  text-align: left;
+}
+
+.rules{
+  text-align: left;
+}
+
+.zone1{
+  text-align: left;
+}
+
+/* .Layups{
+  text-align: left;
+} */
