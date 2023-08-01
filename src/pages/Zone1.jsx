@@ -1,4 +1,5 @@
 import React from "react";
+import Bron from "../pics/Bron.jpg";
 
 const Zone1 = () => {
   return (
@@ -33,9 +34,13 @@ const Zone1 = () => {
               <li>They'll become better all around players.</li>
               <li> Their basketball IQ should increase.</li>
             </ol>
-            <div className="Layups">
-              <h3>Dunk:</h3>
-              <section className="shot1">
+            <div className="Cards">
+              <section className="card1">
+                <img src={Bron} />
+                <div className="card1-title">
+                  <h3>Dunk:</h3>
+                  <p className="card1-body"></p>
+                </div>
                 <p>
                   <ul>
                     <li>
@@ -43,9 +48,9 @@ const Zone1 = () => {
                       or 2 feet.
                     </li>
                     <li>
-                      <b>Why:</b> Is a better option over a typical layup if able
-                      to perform. A more aggressive play. Can create momentum or
-                      fouls depending on the situation.
+                      <b>Why:</b> Is a better option over a typical layup if
+                      able to perform. A more aggressive play. Can create
+                      momentum or fouls depending on the situation.
                     </li>
                     <li>
                       <b>When/Scenario:</b> Performed in the same situations as
@@ -54,8 +59,9 @@ const Zone1 = () => {
                   </ul>
                 </p>
               </section>
-              <h3>Inside Hand</h3>
-              <section className="shot2">
+
+              <section className="card2">
+                <h3>Inside Hand</h3>
                 <ul>
                   <li>
                     <b>How:</b>Player shoots with the closest hand to the
@@ -79,8 +85,9 @@ const Zone1 = () => {
                   </li>
                 </ul>
               </section>
-              <h3>Jump/Baby Hook</h3>
-              <section className="shot3">
+
+              <section className="card3">
+                <h3>Jump/Baby Hook</h3>
                 <ul>
                   <li>
                     <b>How:</b>The off. player plants either foot and pivots

@@ -1,10 +1,10 @@
 import React from "react";
-// import { useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import { Link } from "react-router-dom";
-// import { darkMode, lightMode } from "../features/theme";
+import { darkMode, lightMode } from "../features/theme";
 
 const Home = () => {
-  // const dispatch = useDispatch();
+  const dispatch = useDispatch();
 
   return (
     <div className="container">
@@ -12,6 +12,7 @@ const Home = () => {
         <div className="theme-buttons">
           <button
             onClick={() => {
+              console.log("darkMode");
               dispatch(darkMode());
             }}
           >
