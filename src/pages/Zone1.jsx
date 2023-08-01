@@ -34,57 +34,72 @@ const Zone1 = () => {
               <li> Their basketball IQ should increase.</li>
             </ol>
             <div className="Layups">
+              <h3>Dunk:</h3>
               <section className="shot1">
-                <h3>Outside Hand Layup:</h3>
                 <p>
                   <ul>
                     <li>
-                      <b>How:</b> player would shoot a right handed shot,
-                      usually off the glass, while jumping off the left foot and
-                      driving the right knee upward to for jump height. Player
-                      may shoot over hand, like a jump shot, or an underhand
-                      scoop shot, similar to the picture above.{" "}
+                      <b>How:</b> Forcefully put the ball through the hoop off 1
+                      or 2 feet.
                     </li>
                     <li>
-                      <b>Why</b>this is the easiest and one of the highest
-                      percentage shots shot in basketball
+                      <b>Why:</b> Is a better option over a typical layup if able
+                      to perform. A more aggressive play. Can create momentum or
+                      fouls depending on the situation.
                     </li>
                     <li>
-                      <b>When/Scenario:</b> Shot when a player has a clear path
-                      to the basket; whether it be in a fast break situation or
-                      half court situation. Also, shot when a player drives to
-                      the basket and has little to no contact with any defense
+                      <b>When/Scenario:</b> Performed in the same situations as
+                      typical layups, laybacks or reverse layups.
                     </li>
                   </ul>
                 </p>
               </section>
-
+              <h3>Inside Hand</h3>
               <section className="shot2">
-                <h3>Inside Hand</h3>
                 <ul>
                   <li>
-                    <b>How:</b>
+                    <b>How:</b>Player shoots with the closest hand to the
+                    basket. Right handed shot when driving to the offensive
+                    players left and Left handed when driving to the offensive
+                    players right.
                   </li>
                   <li>
-                    <b>Why:</b>
+                    <b>Why:</b> Why this Shot: Offensive player is driving and
+                    has gained a body position advantage and needs to shoot away
+                    from the defense so the shot is harder to block. Also, shot
+                    so that offensive player can use the rim as protection from
+                    a shot blocker.
                   </li>
                   <li>
-                    <b>When:</b>
+                    <b>When:</b>Usually performed on a catch and sweep/rip
+                    situation off a ball reversal or catch off a screen and
+                    going “against the grain” on the drive and need to get the
+                    shot up quickly before the guarding defender recovers or the
+                    help defender(s) rotate
                   </li>
                 </ul>
               </section>
-
+              <h3>Jump/Baby Hook</h3>
               <section className="shot3">
-                <h3>Power Layup</h3>
                 <ul>
                   <li>
-                    <b>How:</b>
+                    <b>How:</b>The off. player plants either foot and pivots
+                    over that same shoulder. Then, jumps off 2 feet keeping
+                    his/her body is perpendicular to the basket. Player
+                    completes the last half of the “hook shot” motion allowing
+                    for a quicker shot in the paint. Player uses off arm to
+                    create space for the shot and as protection from a shot
+                    blocker.
                   </li>
                   <li>
-                    <b>Why:</b>
+                    <b>Why:</b>Quick way to score in the post are. Especially if
+                    wanting to score before being double teamed
                   </li>
                   <li>
-                    <b>When:</b>
+                    <b>When:</b>Mostly performed in a post up situation. Can
+                    also be performed when there is a drive to the basket and
+                    the driver passes to the player the rotating defender was
+                    guarding.
                   </li>
                 </ul>
               </section>
