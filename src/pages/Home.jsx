@@ -28,10 +28,9 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="home-content">
-        <h3>
-          Welcome to Finishing Program: Your Guide to Becoming a Better Finisher
-        </h3>
+      <div className="home">
+        <h2 className="home-title">Welcome to the Finishing Program:</h2>
+        <h3>Your Guide to Becoming a Better Finisher</h3>
         <p>
           This program is designed to help with one of the most important skills
           in basketball; the ability to finish! There are various ways to finish
